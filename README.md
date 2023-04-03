@@ -1,4 +1,4 @@
-# eos_chatting
+# week2_assginment
 
 A new Flutter project.
 
