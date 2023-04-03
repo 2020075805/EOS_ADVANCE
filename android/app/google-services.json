@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877193206753",
+    "project_id": "eos-chatting-b90b3",
+    "storage_bucket": "eos-chatting-b90b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877193206753:android:2f96f678ceb0fcc58010a0",
+        "android_client_info": {
+          "package_name": "com.example.week2_assginment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877193206753-jgkcnci82lh2une9l0kce71r2qmnro1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GCLhImGyV2dpIgvEuzMpcRKbu-2x44Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877193206753-jgkcnci82lh2une9l0kce71r2qmnro1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
